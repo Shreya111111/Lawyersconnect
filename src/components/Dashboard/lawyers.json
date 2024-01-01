@@ -1,0 +1,99 @@
+[
+    {
+      "name": "John Doe",
+      "location": "New York",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $150",
+      "availability": "Available Now",
+      "time": "3 min ago"
+    },
+    {
+      "name": "Alice Smith",
+      "location": "Los Angeles",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $120",
+      "availability": "Not Available",
+      "time": "5 min ago"
+    },
+    {
+      "name": "Robert Johnson",
+      "location": "Chicago",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $180",
+      "availability": "Available Now",
+      "time": "7 min ago"
+    },
+    {
+      "name": "Emily Davis",
+      "location": "San Francisco",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $200",
+      "availability": "Available Now",
+      "time": "10 min ago"
+    },
+    {
+      "name": "Michael Wilson",
+      "location": "Houston",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $170",
+      "availability": "Not Available",
+      "time": "15 min ago"
+    },
+    {
+      "name": "Sophia Anderson",
+      "location": "Miami",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $160",
+      "availability": "Available Now",
+      "time": "20 min ago"
+    },
+    {
+      "name": "Daniel Brown",
+      "location": "Seattle",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $190",
+      "availability": "Not Available",
+      "time": "25 min ago"
+    },
+    {
+      "name": "Olivia Miller",
+      "location": "Dallas",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $180",
+      "availability": "Available Now",
+      "time": "30 min ago"
+    },
+    {
+      "name": "Liam Moore",
+      "location": "Atlanta",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $160",
+      "availability": "Not Available",
+      "time": "35 min ago"
+    },
+    {
+      "name": "Ava Smith",
+      "location": "Denver",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $210",
+      "availability": "Available Now",
+      "time": "40 min ago"
+    },
+    {
+      "name": "Logan Harris",
+      "location": "Phoenix",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $175",
+      "availability": "Not Available",
+      "time": "45 min ago"
+    },
+    {
+      "name": "Ella Wilson",
+      "location": "Austin",
+      "imageURL": "https://www.lawyer.com/img/banner-image.jpg",
+      "fees": "Hourly Rate - $185",
+      "availability": "Available Now",
+      "time": "50 min ago"
+    }
+  ]
+  
