@@ -10,6 +10,8 @@ The Prisoner-Lawyer Connect Platform is a web application aimed at connecting pr
 [![GitHub issues](https://img.shields.io/github/issues/Shreya111111/Lawyersconnect)](https://github.com/Shreya111111/Lawyersconnect/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Shreya111111/Lawyersconnect)](https://github.com/Shreya111111/Lawyersconnect/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/Shreya111111/Lawyersconnect)](https://github.com/Shreya111111/Lawyersconnect/stargazers)
+[![Languages](https://img.shields.io/github/languages/count/Shreya111111/Lawyersconnect)](https://github.com/Shreya111111/Lawyersconnect)
+
 
 ## Features
 
